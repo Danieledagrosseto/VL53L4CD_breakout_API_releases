@@ -1,4 +1,4 @@
-# EZrange VL53L4CD breakout release
+# EZrange VL53L4CD breakout releases
 
 ## Download
 
